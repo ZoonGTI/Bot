@@ -34,7 +34,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 global.limitawal = {
 premium: "Infinity",
-free: 20,
+free: 25,
 }
 
 //---------( RANDOM IMAGE )---------//
